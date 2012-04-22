@@ -1,7 +1,9 @@
 Wolfenstein 3D Ray Casting - Multiplayer version
 ==============
 
-Extending http://dev.opera.com/articles/view/3d-games-with-canvas-and-raycasting-part/
+Adding Multiplayer capabilities to Jacob Seidelin's HTML5 Canvas ray casting Wolfenstein3D:
+
+http://dev.opera.com/articles/view/3d-games-with-canvas-and-raycasting-part/
 
 Requirements
 ------------
