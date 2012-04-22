@@ -1,0 +1,13 @@
+{
+  "name": "wolf3dray-multi",
+  "version": "0.0.1",
+  "author": "Fabrizio Codello",
+  "engines": {
+    "node": "0.6.x"
+  },
+  "private": true,
+  "dependencies": {
+    "express": "2.5.x",
+    "socket.io": "0.9.x"
+  }
+}
